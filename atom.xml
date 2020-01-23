@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fredrik Berglund</title>
+  
+  <subtitle>The personal website of Fredrik Berglund</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.blynt.com/"/>
+  <updated>2020-01-21T20:45:02.717Z</updated>
+  <id>https://www.blynt.com/</id>
+  
+  <author>
+    <name>Fredrik Berglund</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Alla dessa kakor som smular sönder mitt förtroende för webben</title>
+    <link href="https://www.blynt.com/2020/01/21/kakor/"/>
+    <id>https://www.blynt.com/2020/01/21/kakor/</id>
+    <published>2020-01-21T20:00:00.000Z</published>
+    <updated>2020-01-21T20:45:02.717Z</updated>
+    
+    <content type="html"><![CDATA[<p>Det senaste årtiondet tycks webben ha drunknat i ett hav av <a href="https://en.wikipedia.org/wiki/HTTP_cookie#Third-party_cookie" target="_blank" rel="noopener">kakor</a> (cookies) - eller åtminstone i ett hav av <em>meddelanden</em> om kakor. Jag är säkert inte unik i att tycka det är tråkigt hur upplevelsen av webben så drastiskt försämrats i och med all denna påträngande info - om än att jag faktiskt uppskattar att så är fallet för att det så tydligt påvisar att vi som samhälle är rätt usla på att bygga teknik och system som värnar den personliga integriteten och som väljer att hantera personlig data på ett omsorgsfullt sätt.</p><p><a href="https://pts.se/" target="_blank" rel="noopener">Post- och Telestyrelsen</a> är tillsynsmyndighet för lagen om eletronisk kommunikation (LEK), en av de lagar som reglerar användandet av kakor. På deras webbplats (som för övrigt inte går att använda om man inte först läser deras fullskärmsnotis om vilka kakor de lagrar) så kan man <a href="https://pts.se/sv/privat/internet/integritet/kakor-cookies/" target="_blank" rel="noopener">läsa</a> att man måste be besökaren om samtycke för få lagra kakor som har annat syfte än att möjliggöra att webbplatsen faktiskt fungerar (som att exempelvis hantera inloggningar).</p><p>I ett <a href="https://www.pts.se/sv/bloggen/pts-bloggen/sortera-dina-kakor-ratt/" target="_blank" rel="noopener">nyligen publicerat blogginlägg</a> skriver PTS dessutom att EU-domstolen klargjort att en förikryssad ruta exempelvis <em>inte</em> räcker som samtycke, något som inte varit helt tydligt i PTS nuvarande riktlinjer. Som lekman tolkar jag allt detta som att man aktivt måste kryssa i en ruta eller aktivt klicka på en knapp för att samtycka till att kakor som är icke-nödvändiga ur ett funktionsperspektiv lagras i ens webbläsare.</p><p>De kanske mest intressanta kakorna att beakta och de som jag vill belysa med denna artikel är de s.k. <a href="https://en.wikipedia.org/wiki/HTTP_cookie#Third-party_cookie" target="_blank" rel="noopener">tredjepartskakorna</a>, dvs kakor som lagras i ens webbläsare från en webbplats som är en annan än den man för tillfället besöker - kakor som rent tekniskt gör det möjligt för dessa tredje parter att “följa mig” runt till andra webbplatser som också lagrar deras kakor, och därmed lagra information om mitt beteende och mina surfvanor.</p><p>Det kanske absolut vanligaste exemplet på en sådan är den från Google Analytics - Googles glorifierade besöksräknare - men andra vanliga exempel är annonsnätverk och olika statistik- och analysverktyg - verktyg som de bakomliggande företagen mer än gärna vill att så många sajter som möjligt nyttjar - för då får de ju mer data om oss.</p><p>Det som fick mig att sätta mig ner och skriva denna artikel var när jag upptäckte hur den lokala reklamtidningen <a href="https://www.vasterastidning.se/" target="_blank" rel="noopener">Västerås Tidning</a> i princip täcker hela mobilskärmen med information om vilka kakor de lagrar och hur de hanterar mina personuppgifter - och det är förstås hedervärt att de är så tydliga med vilka kakor de vill lagra (enligt deras information tre nödvändiga och om man ger dem sitt medgivande, ytterligare 24 icke-nödvändiga tredjepartskakor).</p><p>Eftersom jag är en nyfiken filur så upptäcker jag dock att ett annonsnätverk (DoubleClick, som ägs av Google) lagrar kakor på min dator även om jag inte ger dem mitt samtycke, men jag är övertygad om att Västerås Tidning lagt ner en hel del möda på att “göra rätt”.</p><p>Och egentligen vill jag inte klanka ner på Västerås Tidning, jag vill bara belysa ett problem, för Västerås Tidning är ju långt ifrån ensamma om att vilja lagra horder av tredjepartskakor i folks webbläsare. Men varför verkar webbplatser som Västerås Tidning tycka att det är okej att en massa för mig orelaterade sajter och bolag hämtar data om mig och därmed kan lära sig om mitt betende och se mina surfmönster. Jag vill ju bara besöka <em>dem</em> - ingen annan - och läsa <em>deras</em> artiklar.</p><p>Men problemet är nog att sajter som Västerås Tidning i många fall inte vet vad alternativet skulle vara - och i många fall kanske man anser att det inte <em>finns</em> något alternativ? Och det är förstås denna okunskap - och den egna oviljan att ändra tekniken - som dessa bolag i många fall lever på. I fallet Västerås Tidning tycks Google stå bakom i princip alla de tredjepartskakor som Västerås Tidning “vill” lagra i min webbläsare - de äger Google Analytics, de äger Google AdSense, de äger annonsnätverket DoubleClick och de äger YouTube.</p><p>Men det ironiska är ju att det inte finns något som helst tekniskt hinder för att erbjuda tjänster som <em>inte</em> gör att företagen bakom lika lätt kan följa mig runt på Internet. Det finns alternativ till Google Analytics som man kan köra själv och därmed helt äga datan kring. Det finns möjlighet att visa för mig som besökare att de har ett Youtube-klipp som jag kanske vill titta på - utan att för den delen låta Google lagra data om mig (till dess jag valt att faktiskt börja spela klippet) - och en annan variant är ju att lagra videoklippet själva.</p><p>Även annonsnätverk är möjliga att bygga utan att sajter behöver “läcka” data om ens besökare - om än att här tror jag att utbudet är i princip obefintligt. Men ett annonsnätverk som månar den personliga integrieten och därmed också borde kunna undvika alla de adblockers som folk har installerade borde ju vara en väldigt intressant nisch?</p><p>Och här borde ju hostingbolag och tjänsteleverantörer kunna göra gemesam sak. Genom att tjänsteleverantörer i större utsträckning börjar nyttja externa hostingbolag för att spinna upp instanser av deras tjänst å sina kunders vägnar, så skulle köparen av dessa tjänster helt kunna äga all den data de behandlar genom tjänsteleverantörens system - och som slutanvändare skulle man kunna känna större tillit till alla inblandade genom att detta till och med möjliggör audits via externa granskare.</p><p>Ett exempel för att göra det hela konkret:</p><p>Säg att Västerås tidning skulle vilja byta sin Google-kontrollerade besöksanalystjänst Google Analytics mot det öppna alternativet <a href="http://www.openwebanalytics.com/" target="_blank" rel="noopener">Open Web Analytics</a> som Västerås Tidning kan hosta själv och därmed inte behöva “läcka” besöksdata till Google. Problemet kan då vara att Google Analytics går att aktivera med bara ett klick, medan OWA kräver en massa infrastruktur och kunskap för att installera och få igång. Här borde då både tjänsteleverantören (OWA i detta fall) och hostingbolag (som exempelvis <a href="https://www.loopia.se/" target="_blank" rel="noopener">Loopia</a>) ta ett större initiativ och helt enkelt erbjuda igångkörning lika enkelt som med Google Analytics.</p><p>Eller så bestämmer man sig bara för att man inte behöver lagra varken IP-adresser eller cookies. Då kan man använda verktyg som <a href="https://simpleanalytics.com/" target="_blank" rel="noopener">Simple Analytics</a> eller en mängd andra alternativ. Då skulle Västerås Tidning slippa kräva samtycke för åtminstone en av sina 24 icke-nödvändiga tredjepartskakor - och du som besökare får behålla lite mer skärmyta för artiklar och dessutom ett uns mer av din personliga integritet.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Det senaste årtiondet tycks webben ha drunknat i ett hav av &lt;a href=&quot;https://en.wikipedia.org/wiki/HTTP_cookie#Third-party_cookie&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hur Felix Herngren ovetandes lockade in min sambo i en värld av högrisktrading</title>
+    <link href="https://www.blynt.com/2020/01/14/felix-herngren-itrader/"/>
+    <id>https://www.blynt.com/2020/01/14/felix-herngren-itrader/</id>
+    <published>2020-01-14T20:00:00.000Z</published>
+    <updated>2020-01-14T20:10:40.975Z</updated>
+    
+    <content type="html"><![CDATA[<p>För några dagar sedan överraskade sambon genom att vid frukostbordet glatt tillkännage att hon beslutat investera lite pengar i Bitcoin. Hon hade hört på radion att Felix Herngren tydligen skulle ha gjort det och att han sagt att det var en smart grej. Lite förvånad frågade jag om hon ens visste vad Bitcoin var, men svaret jag fick var något tvetydigt, så jag berättade det lilla jag visste. Löftena om nyttan med <a href="https://sv.wikipedia.org/wiki/Blockkedja" target="_blank" rel="noopener">blockkedjor</a>, att det ändå är lite spännande med en valuta utan backande stat, och hemlighetsmakeriet kring pseudonymen <a href="https://en.wikipedia.org/wiki/Satoshi_Nakamoto" target="_blank" rel="noopener">Satoshi Nakamoto</a>. Sedan pratade vi inte mycket mer om det.</p><p>Personligen har jag ingen som helst erfarenhet av att använda Bitcoin, så jag antog att sambon skulle köpa en fraktion av en Bitcoin via någon växlingstjänst.</p><p>Senare samma dag blev jag dock återigen överraskad av att hon pratade med en engelsktalande herre på telefonen. Hon trevar lite med engelskan, så hon ville att jag skulle översatta. Mannen var väldigt artig och ställde några generella frågor gällande vem hon var och sade till slut att en av hans kollegor skulle höra av sig senare i veckan. Det var först efteråt som jag fick reda på att samtalet hade att göra med hennes Bitcoin-investering.</p><p>Några dagar senare kom så samtalet från mannens kollega och det blev genast uppenbart för både mig och sambon att hon inte alls köpt några Bitcoin, utan istället öppnat ett konto på cypriotiska tradingtjänsten <a href="https://www.itrader.com/" target="_blank" rel="noopener">Itrader</a>. Att sambon hade öppnat ett <a href="https://sv.wikipedia.org/wiki/Contract_for_difference" target="_blank" rel="noopener">CFD-tradingkonto</a> utan att hon, eller jag heller för den delen, hade någon som helst kunskap om vad sådan högrisk-trading faktisk innebär är ju intressant i sig, men vad representanten från Itrader sade under samtalet var dock ännu mer intressant, och lite grann av poängen med denna post. Samtalet gav dock upphov till ett ganska intensivt googlande så nu i efterhand vet jag betydligt mer om CFD-trading än vad jag visste under samtalets gång.</p><p>Representanten frågade först hur mycket vi kände till om hävstångshandel med möjlighet till <a href="https://sv.wikipedia.org/wiki/Blankning" target="_blank" rel="noopener">blankning</a>) och förstod direkt att vi inte visste någonting - något hon också medgav. Att sambon uttryckte en önskan om att köpa lite Bitcoin blev genast ganska bryskt ifrågasatt, och hon tyckte istället vi skulle ha ett “öppet sinne” och inte riktigt tänka så mycket på den underliggande tillgången. Vi borde istället fokusera på möjligheten till snabba (och stora) vinster.</p><p>Kvinnan från Itrader delade sin skärm så att vi kunde följa med när hon visade oss hur trading-plattformen fungerade. Från att endast haft erfarenhet av lite aktie- och fondköp hos Avanza så var detta något som såg ut som skärmarna på börsgolvet i New York. Här rörde sig graferna snabbt och man kunde tjäna pengar på både upp- och nedgång.</p><p>Då allt detta kom som en total överraskning för mig, och vi båda var lite överrumplade av vad vi såg, tackade vi flera gånger under samtalet för vad vi sett så här långt och bad om att få undersöka tjänsten lite på egen hand. Det visade sig dock vara extremt svårt att få göra. Representanten var ytterst ovillig att lägga på luren, och efter ett tag visade det sig att våra eventuella framgångar med deras plattform tycktes vara tätt kopplade till hennes provision.</p><p>Att vi inte visste nånting överhuvud taget om vad vi höll på med spelade absolut ingen roll enligt representanten. Hon var trygg med att hon kunde ordna en bra avkastning åt oss. Hon sade att många av hennes klienter var precis lika ovetande och visade skärmdumpar från flera av hennes nybörjarklienters konton där man tydligt kunde se att de på bara någon vecka kunnat göra stora vinster - mycket tack vare hennes hjälp fick man förmoda.</p><p>Kvinnan tyckte absolut att vi direkt skulle börja investera - dock inte i Bitcoin, utan i olja. Hon tyckte vi skulle “short the market”, dvs blanka, något vi aldrig gjort i våra liv. Alla belopp, multiplar och värden som kvinnan sade åt oss att mata in i systemet var i princip omöjliga att förstå och att koppla till det belopp som sambon satt in. Trots att vi förklarade att vi var ytterst obekväma med att fylla i en massa för oss helt slumpmässiga siffror, så tyckte kvinnan att vi skulle strunta i det för tillfället och lita på henne.</p><p>Hon tyckte vi skulle investera motsvarande långt mer än de pengar sambon satt in på sitt konto - något som varken sambon eller jag alls förstod hur det skulle gå till. Först efteråt förstod jag att det var på grund av hävstångseffekten i tjänsten som detta var möjligt - en hävstång som förstås kunde gå både upp och ned. Att vi inte tycktes förstå allt detta under samtalet, och att vi dessutom var ovilliga att låta henne investera sambons pengar efter hennes rekommendationer gjorde henne bara mer och mer frustrerad.</p><p>Eter mycket om och men insåg kvinnan från Itrader att hon inte skulle få vårt direkta samtycke till hennes investeringsförslag. Tydligt frustrerad berättade hon att hon var sen till ett möte, och att om vi ville ha hennes hjälp så kunde vi höra av oss vid ett senare tillfälle.</p><p>Glad över att samtalet var över började jag läsa på om vad den typ av CFD-handel som Itrader erbjuder faktiskt innebär. Den för mig intressantaste upptäckten var nog inte vad CFD-handel i sig innebär, utan att företag som erbjuder denna typ av tjänst måste publicera en <a href="https://www.itrader.com/en/risk-disclosure" target="_blank" rel="noopener">riskvarning</a> och berätta hur stor andel av sina kunder som faktiskt förlorar pengar (!) med tjänsten - något av en varningsflagg i sig.</p><p>I fallet Itrader är andelen tydligen 81.65% i skrivande stund - ett faktum som inte riktigt framgick när vi talade med deras representant - och inget som framgick av de framgångssagor som hennes klienter tycks ha haft. Oddsen att förlora pengar hos Itrader är alltså i genomsnitt högre än att spela på <a href="https://sv.wikipedia.org/wiki/Trisslott" target="_blank" rel="noopener">Triss</a>, om än att där är det slumpen som helt och hållet avgör.</p><p>Med risk för att det blir uppenbart hur lite jag kan om denna värld så frågar jag mig ändå om detta på en hög nivå inte är väldigt snarlikt den typ av vadslagning som bettingsajter som Unibet sysslar med. Möjligtvis med den skillnaden att de senare förmodligen inte skulle ringa uppenbart okunniga spelare med syfte att styra både vilket vad som kunden borde göra, samt hur mycket hen borde satsa.</p><p>För sambon blir det nog till att stänga ned kontot. Vadslagning är ju beroendeframkallande sägs det.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;För några dagar sedan överraskade sambon genom att vid frukostbordet glatt tillkännage att hon beslutat investera lite pengar i Bitcoin.
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Nyårslöfte</title>
+    <link href="https://www.blynt.com/2020/01/07/nyarslofte/"/>
+    <id>https://www.blynt.com/2020/01/07/nyarslofte/</id>
+    <published>2020-01-07T22:00:00.000Z</published>
+    <updated>2020-01-07T22:49:49.704Z</updated>
+    
+    <content type="html"><![CDATA[<p>Det är onekligen med viss tvekan som jag härmed tillkännager att jag firar in det nya årtiondets ankomst med ett nyårslöfte. Med tvekan därför att löftet är något jag tidigare brutit. Med tvekan därför att själva tillkännagivandet är så mycket enklare att skriva än att stå på mig och hålla löftet, vecka ut och vecka in. Med tvekan därför att om jag skulle bryta löftet så är prestigeförlusten inför familj och vänner sannolikt obefintlig.</p><p>Men om man någon gång ska kosta på sig ett nyårslöfte så är det väl ändå vid ett nytt årtionde? Well, det hade ju varit ännu coolare om jag deklarerat ett mustigt nyårslöfte vid millennieskiftet, säger du. Ja, kanske det. Men det tåget lämnade ju perrongen för 20 år sedan så jag får helt enkelt spela spelet med de pjäser som finns till förfogande och då känns ändå 2020 ganska najs.</p><p>Och den samlade bilden tycks ju ändå vara att 2010-talet var ett ganska skruttigt årtionde där den ena uppåtgående trenden efter den andra började vika av åt fel håll. Och då passar det ju extra bra att med tillförsikt och optimism göra sitt bästa för att inte bara tillkännage, utan även hålla, ett nyårslöfte jag gått och klurat på så länge.</p><p>Så vad är det nu för löfte jag tycks kunna skriva så mycket om men ändå inte lyckas specificera? Jo, det är just det - att skriva.</p><p>Jag lovar mig härmed att uthålligt börja skriva. Att ta mig tiden att formulera mina tankar och idéer i skrift. Att åtminstone en gång i veckan publicera en text här på bloggen.</p><p><a href="https://andrewchen.co/professional-blogging/" target="_blank" rel="noopener">Någon sade</a>:</p><blockquote><p>Writing is the most scalable professional networking activity - stay home, don’t go to events/conferences, and just put ideas down. Building your network, your audience, and your ideas will be something you’ll want to do over your entire career. Think of your writing like a multi-decade project.</p></blockquote><p>Tja, vi får väl se, men skriva ska jag.</p><p>Men då undrar du (förstås): Om jag nu brutit det här löftet tidigare, vad har jag då gjort den här gången för att minimera risken för att det ska ske igen?</p><p>Ah, vilken bra fråga!</p><p>Jo, det jag gjort är att jag givit mig själv tillåtelse att skriva på svenska. Tidigare har jag alltid tyckt att det varit fånigt att skriva på svenska. Varför ha en maximal potentiell läsarskara av kanske tio miljoner människor, när man kan bli förstådd av i princip varenda Internet-användare bara man skriver på engelska?</p><p>Jag har helt enkelt fått lov att inse, även om det svider, och även om jag brukar kunna klappa mig själv på axeln och hävda att min engelska ändå är ganska hygglig, att mitt krav på engelska i praktiken satt krokben för mig. Till slut har det alltid inneburit att tröskeln blivit för övermäktig att ta sig över - och så har det helt sonika inneburit att jag istället slutat skriva. Så det hindret är numera undanröjt.</p><p>Men att börja skriva är faktiskt inte mitt enda nyårslöfte. </p><p>Ett mer omfattande nyårslöfte är att på riktigt börja leva lite mer efter mina ganska outforskade ideal. Det är något jag faktiskt började jobba på ganska metodiskt redan under hösten, men det finns många saker jag avser förändra under året. Men det löftet innebär en resa som bara precis är påbörjad, så förhoppningsvis har jag mycket att skriva om.</p><p>Du får mer än gärna följa med på resan!</p><p>Mycket nöje!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Det är onekligen med viss tvekan som jag härmed tillkännager att jag firar in det nya årtiondets ankomst med ett nyårslöfte. Med tvekan
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.blynt.com/2019/08/06/hello-world/"/>
+    <id>https://www.blynt.com/2019/08/06/hello-world/</id>
+    <published>2019-08-06T11:26:41.000Z</published>
+    <updated>2019-08-06T14:40:26.319Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to this my very first blog post.</p><p>Well, it’s actually not the first by a long shot. It’s just that it’s my first post on <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>, a really neat static blog generator that I stumbled upon and found easy and straightforward enough for me to manage and operate.</p><p>Having spent some time this summer creating a somewhat minimalistic theme for it, I now have all the scaffolding in place so that I can actually do some writing.</p><p>Oh, and yes, you’re totally correct if you think I was heavily influenced by <a href="https://duckduckgo.com/about" target="_blank" rel="noopener">DuckDuckGo’s “about” page</a> for my frontpage.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to this my very first blog post.&lt;/p&gt;
+&lt;p&gt;Well, it’s actually not the first by a long shot. It’s just that it’s my first post on
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

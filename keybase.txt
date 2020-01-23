@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/blynt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.blynt.com
+  * I am blynt (https://keybase.io/blynt) on keybase.
+  * I have a public key ASBNR_mSD9PF9dCwXReMWKUg0n0LVpWAPZeUJk8TLTUzuwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203bc549eaf7328b4f42912461cd972d443a89a631a8476d1ff645dbc07f0c6c830a",
+      "host": "keybase.io",
+      "kid": "01204d47f9920fd3c5f5d0b05d178c58a520d27d0b5695803d9794264f132d3533bb0a",
+      "uid": "5fa0ed7f428083866e2836dcfe038e00",
+      "username": "blynt"
+    },
+    "merkle_root": {
+      "ctime": 1579556881,
+      "hash": "c4cba20a151d257e5bf5b0f7bbe338e52c7e9d355802b4d817bbbbc4473b687f63b8856a259af1a3366d0256b74625adfb3ca77838b4d267de421bf6a89982c1",
+      "hash_meta": "e89df7393c476f34bb6f8496b0c6ccff33333b4afe0f3ce3297576c93a35ab24",
+      "seqno": 14301238
+    },
+    "service": {
+      "entropy": "jnMkrNA3z9DzsOveuXrhjSED",
+      "hostname": "www.blynt.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579556890,
+  "expire_in": 504576000,
+  "prev": "9369b3d22a4694c0097c00753c069d585b5a684e98b88750f83c9f3b898a4125",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTUf5kg/TxfXQsF0XjFilINJ9C1aVgD2XlCZPEy01M7sKp3BheWxvYWTESpcCM8Qgk2mz0ipGlMAJfAB1PAadWFtaaE6YuIdQ+DyfO4mKQSXEIAeHwbltx2w4I444MJP5yGkNLZD2UbRkCdvGZrkuMG9yAgHCo3NpZ8RAjMyXt4JpGmD2lLXdQhiJWR5rA33eewCOMnepwYTCJdQjHGgge3JJGrJEz7ZOnAqiKT2XduiJTkMAYwJt4QLRAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMkDtfxY6KJqphK3SUX7iNc5jvGGUzV3Qkv4Rn6otY5no3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/blynt
+
+==================================================================
