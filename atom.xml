@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.blynt.com/"/>
-  <updated>2020-01-21T20:45:02.717Z</updated>
+  <updated>2020-01-29T16:01:54.475Z</updated>
   <id>https://www.blynt.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Utflytt, inflytt och en bunt pappersfakturor</title>
+    <link href="https://www.blynt.com/2020/01/29/epost/"/>
+    <id>https://www.blynt.com/2020/01/29/epost/</id>
+    <published>2020-01-29T15:44:29.000Z</published>
+    <updated>2020-01-29T16:01:54.475Z</updated>
+    
+    <content type="html"><![CDATA[<p>Ibland känns livet alldeles fasligt krångligt. Så är det ju förstås ibland, men pågår det för länge behöver man fundera på vad som är fel och ändra kurs. Förra året kände jag och sambon att vårt liv tillsammans hade varit just fasligt krångligt under alldeles för lång tid, och när vi insåg att vi mådde bäst när vi var ifrån varandra, så valde vi att efter drygt tio år tillsammans gå skilda vägar.</p><p>Så här i efterhand visade det sig att separationen var det bästa som hänt vårt förhållande. Den blev bara tillfällig och vi lyckades reda ut en massa krångel, lösa upp en massa knutar och justera våra förväntningar på varandra.</p><p>På rekordtid lärde vi oss en massa nyttigt om både varandra och oss själva, och även om det är vanskligt att redan nu säga att allt alltid kommer vara bra (livet är ju sällan enbart en dans på rosor), så är vi nu inne i en ny fas, både i livet och i förhållandet, och vi har en betydligt fastare grund att stå på!</p><p>Men nu var det ju egentligen inte alls så att jag tänkt skriva en text om min och sambons relationscomeback, utan om elektroniska postlådor. Så vad har då texten så här långt med det att göra?</p><p>Jo, vår tillfälliga separation innebar att jag skaffade en hyresrätt, flyttade, och fick ny adress. Eftersom nya abonnemang för el och Internet behövde skaffas och en del gamla abonnemang skulle överlåtas, så innebar det under en tid att fakturor slutade trilla in i Internet-banken och istället kom på papper, och detsamma gällde både diverse korrespondens och bekräftelser.</p><p>För det tycks ofta vara så - så fort man ska ändra i någon tjänst eller skaffa något nytt så är det via gammal hederlig snigelpost som man får sina försändeler. Och det är ju både krångligt och osäkert. Dessutom är det dyrt. En flytt kräver ju i regel eftersändning av posten, och glädjen att få betala avgifter skrivna på en papperslapp tycks ha en tendens att överraska med en faktureringsavgift.</p><p>Så vad är då lösningen på detta måntro?</p><p>Jo, en elektronisk adress förstås. Men vi har ju e-post och <a href="https://kivra.se/" target="_blank" rel="noopener">Kivra</a> tänker du. Jo, det har du ju förstås helt rätt i. Båda fungerar alldeles utmärkt för att leverera post, men de saknar framför allt två fundamentala egenskaper:</p><p>Varken e-post eller Kivra (eller någon av konkurrenterna <a href="https://www.e-boks.com/sverige/sv/" target="_blank" rel="noopener">e-Boks</a> eller <a href="https://digimail.se/" target="_blank" rel="noopener">Digimail</a>) stöds av folkbokföringen och finns inte lagrade i statens personadressregister SPAR. Därmed finns det inget bra allomfattande system för att klura ut vilken person som har vilken adress.</p><p>Kivra och dess konkurrenter gör det heller inte möjligt att skicka brev som privatperson - inte som företagare heller för den delen utan en “integration”.</p><p>Kivra säger att var tredje svensk får post genom deras tjänst från <a href="https://digimail.se/" target="_blank" rel="noopener">15 000 företag och myndigheter</a>, och statens plattform <a href="https://www.minameddelanden.se/" target="_blank" rel="noopener">Mina meddelanden</a> som skickar elektronisk post till bland annat användare av Kivra, har <a href="https://www.minameddelanden.se/mm/638.html" target="_blank" rel="noopener">3,6 miljoner svenskar anslutna</a>. Dessa siffror kan förstås ses som imponerande, men enda sättet att helt digitalisera vårt korresponderande är ändå att låta alla kunna hitta “adressen” till ens elektroniska brevlåda, samt att vem som helst ska kunna “lägga ett brev på lådan”.</p><p>Enligt Mina meddelanden skickades <a href="https://www.minameddelanden.se/mm/609.html" target="_blank" rel="noopener">28 miljoner digitala brev från myndigheter, kommuner och regioner 2018</a>. Även om detta förstås bara är en delmängd av alla elektroniska brev som skickades samma år, så bleknar det ändå i relation till de <a href="https://www.postnord.com/sv/om-oss/" target="_blank" rel="noopener">3,3 miljarder brev och försändelser</a> (ej paket) som delades ut helt analogt av PostNord under samma period (i Norden). Och även om Kivras 15 000 anslutna företag ändå är många, så är det bara en bråkdel av de 1,2 miljoner företag som finns i landet.</p><p>Så hur gör man då för alla enkelt ska kunna skicka och ta emot elektronisk post? Förmodligen är vi nästan redan där, men först måste förstås den elektroniska adressen bli en giltig adress i statens adressregister, och man måste få möjlighet att välja om man föredrar digital eller analog post.</p><p>Utöver det behöver brevlådeföretagen ha krav på sig att vem som helst ska kunna skicka elektronisk post till vem som helst - utan särskilda integrationer och avtal. Man får helt enkelt ta fram en tjänst (sannolikt ett friare API, en hemsida och en mobilapp) som gör det möjligt för vem som helst att lägga ett brev på posten - förstås till en mindre kostnad för att slippa spam (dvs man får betala porto).</p><p>När det blir lika lätt att skicka en PDF-faktura som att Swisha sin kompis, ja då är jag övertygad om att i princip alla kommer göra det. Vilka fördelar för då detta med sig:</p><ul><li>Miljömässigt bättre med mindre fysisk post. De som gillar reklam kan få sina PostNord-bibbor med reklam denna väg och slipper därmed 1 kg onödiga papper som direkt går till återvinning varje vecka.</li><li>Enklare att få sin post oberoende av ens fysiska adress. Fungerar enkelt även om man är på resande fot, bor utomlands eller flyttar.</li><li>Brev kan innehålla metadata som förenklar hanteringen hos mottagaren. Exempelvis kan fakturor innehålla data som förenklar automatisk bokföring.</li></ul><p>Säkerligen finns det en mängd andra fördelar (och nackdelar) också, men jag ser fram emot den dagen vi tagit detta ganska stora kliv mot ett mer pappersfritt samhälle. Undrar för övrigt hur andra länder gör detta? Hm … </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Ibland känns livet alldeles fasligt krångligt. Så är det ju förstås ibland, men pågår det för länge behöver man fundera på vad som är
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Alla dessa kakor som smular sönder mitt förtroende för webben</title>
